@@ -1,0 +1,66 @@
+{
+    "First_text": {
+        "message": "From",
+        "description": "Text"
+    },
+    "Second_text": {
+        "message": "the calculus system. Translate into ",
+        "description": "Text"
+    },
+    "Third_text": {
+        "message": "the calculus system.",
+        "description": "Text"
+    },
+    "Button": {
+        "message": "Accept",
+        "description": "Text"
+    },
+    "Error_empty": {
+        "message": "Please enter a number!",
+        "description": "Text"
+    },
+    "Error_binary": {
+        "message": "The number entered is not in the binary system!",
+        "description": "Text"
+    },
+    "Error_octal": {
+        "message": "The number entered is not in the octal system!",
+        "description": "Text"
+    },
+    "Result": {
+        "message": "Answer: ",
+        "description": "Text"
+    },
+    "Step": {
+        "message": "Step: ",
+        "description": "Text"
+    },
+    "Description_octal": {
+        "message": "To convert decimal numbers between number systems it is necessary to divide the decimal number to be converted by the value of the new base (in the specified pattern 8) until the remainder is a number less than the base of the new number system. The new number is written as the remainder of the division, starting with the last.",
+        "description": "Text"
+    },
+    "Description_binary": {
+        "message": "To convert decimal numbers between number systems it is necessary to divide the decimal number to be converted by the value of the new base (in the specified pattern 2) until the remainder is a number less than the base of the new number system. The new number is written as the remainder of the division, starting with the last.",
+        "description": "Text"
+    },
+    "Answer_ten": {
+        "message": "The remainder of the division is written in the opposite direction.",
+        "description": "Text"
+    },
+    "Rrsl": {
+        "message": "For conversion, it is necessary to multiply the discharge of the number by the corresponding degree of discharge.",
+        "description": "Text"
+    },
+    "TwoToEight": {
+        "message": "Divide the original code into groups of 3 digits. If there are not enough digits in the group, add 0s to the beginning of the original code until the moment when the group is completed.",
+        "description": "Text"
+    },
+    "TwoToEight_2": {
+        "message": "Then we replace each group with the code in the table.",
+        "description": "Text"
+    },
+    "EightToTwo": {
+        "message": "Replace each digit with a table code.",
+        "description": "Text"
+    }
+} 
